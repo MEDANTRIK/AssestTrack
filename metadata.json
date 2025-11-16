@@ -1,0 +1,5 @@
+{
+  "name": "Medisolutionz-RentalPortal",
+  "description": "A comprehensive application for managing rental assets and customer information. This app features a customer database and barcode-based asset identification to streamline your rental workflow.",
+  "requestFramePermissions": []
+}
